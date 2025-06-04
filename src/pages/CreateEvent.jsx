@@ -6,7 +6,7 @@ export default function CreateEvent() {
         <>
         <Navbar/>
         <section>
-        <h1>WElcome to the CreateEvent Page</h1>
+        <h1>Welcome to the CreateEvent Page</h1>
         </section>
         </>
     );
